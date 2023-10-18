@@ -1,0 +1,42 @@
+{
+  "name": "drop-the-pots",
+  "version": "1.0.0",
+  "description": "i wanna more pots for the slot machine",
+  "keywords": [
+    "cannon.js",
+    "react",
+    "three.js",
+    "drop the coin",
+    "coin"
+  ],
+  "main": "src/index.js",
+  "dependencies": {
+    "@react-spring/three": "9.7.3",
+    "@react-three/cannon": "6.6.0",
+    "@react-three/drei": "9.88.3",
+    "@react-three/fiber": "8.14.6",
+    "@react-three/postprocessing": "2.15.1",
+    "loader-utils": "3.2.1",
+    "lodash": "4.17.21",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "react-scripts": "5.0.1",
+    "three": "0.157.0"
+  },
+  "devDependencies": {
+    "@babel/runtime": "7.13.8",
+    "typescript": "4.1.3"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}
